@@ -1,0 +1,12 @@
+name: naive-bayes
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - seaborn
+prefix: /usr/local/Caskroom/miniconda/base/envs/naive-bayes
